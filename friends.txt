@@ -1,0 +1,28 @@
+Name: Goutham
+Mobile Number: 9998876543
+Alternate Mobile Number: 9987654321
+Address: banglore
+City/Town Name: newyark
+
+
+Name: Manju
+Mobile Number: 9008876543
+Alternate Mobile Number: 9980654321
+Address: manglore
+City/Town Name: Goa
+
+
+Name: Chandu
+Mobile Number: 9876543211
+Alternate Mobile Number: 9876543221
+Address: kgf
+City/Town Name: kolar
+
+
+Name: Abhi
+Mobile Number: 9876543111
+Alternate Mobile Number: 9876543121
+Address: banglore
+City/Town Name: kgf
+
+
